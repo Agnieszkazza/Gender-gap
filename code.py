@@ -328,8 +328,7 @@ plt.gca().get_lines()[1].set_color('pink')
 plt.gca().get_lines()[0].set_markerfacecolor('black')
 plt.show()
 
-from google.colab import drive
-drive.mount('/content/drive')
+
 
 """PODSTAWOWE ANALIZY"""
 
